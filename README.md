@@ -1,4 +1,6 @@
-# Desafio-BEES
+# Case QA Automation
+    Testes realizados no site "AutomationPratice" referente ao Desafio 1, para oportunidade de uma futura vaga na empresa BEES.
+
 
 ## Estrutura para as funcionalidades com arquivos separados para Tests / Steps / Page / Elements. ##
 
