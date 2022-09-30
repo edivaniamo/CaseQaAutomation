@@ -8,7 +8,6 @@ preencher formulario de cadastro ${valido}
     Wait Until Element is Visible    ${INPUT_NAME}
     Input Text    ${INPUT_NAME}    ${NOMEFAKE}
 
-    ${SEGUNDO_NOME}
     Input Text    ${INPUT_LASTNAME}    ${SOBRENOME}
 
     Wait Until Element is Visible    ${INPUT_PASSWORD}
